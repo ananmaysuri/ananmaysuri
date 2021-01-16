@@ -3,6 +3,11 @@
 <!--
 **ananmaysuri/ananmaysuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Ananmay's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ananmaysuri&show_icons=true&hide_border=true" />
+
 ### Connect with me:
 
 <!--[<img align="left" alt="ananmaysuri.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]-->
@@ -11,11 +16,6 @@
 [<img align="left" alt="Ananmay | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Ananmay's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ananmaysuri&show_icons=true&hide_border=true" />
 
 </details>
 <!--[website]: https://ananmaysuri.com-->
